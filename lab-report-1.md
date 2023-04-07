@@ -27,7 +27,7 @@ You can Install Visual Studio code here:
 [Visual Studio Code Download](https://code.visualstudio.com/download)
 
 Make sure that you install the correct version depending on your device
-[Image](picture of the vscode download screen)
+[Image](vscode_download.JPG)
 
 
 
