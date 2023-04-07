@@ -24,7 +24,7 @@ The first thing to do is to find your specific course account. You can do that h
 You will now need something to be able to access a terminal and connect to a remote server. Thus, we will be installing Visual Studio Code. If you don't want to install VScode for whatever reason(I suggest you do) then you can just access it on the CS lab computers.
 You can Install Visual Studio code here:
 
-[VScode](https://code.visualstudio.com/download)
+[Visual Studio Code Download](https://code.visualstudio.com/download)
 
 Make sure that you install the correct version depending on your device
 [Image](picture of the vscode download screen)
