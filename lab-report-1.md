@@ -34,6 +34,12 @@ After you click download that is specific for your device, you want to follow th
 
 ![Image](vscode starting page)
 
+Congratulations! You now have Visual Studio Code installed on your device and don't have to rely on the lab computers.
+
+**Personal Experience**
+* I personally did not have to do this step as I already had VScode installed due to prior CS courses that I took(might be the case for a lot of people).
+* One important thing to remember is to make sure to download the version of Visual Studio Code that is meant for your specific device.
+
 
 
 
