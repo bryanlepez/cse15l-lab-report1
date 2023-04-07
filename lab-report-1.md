@@ -8,6 +8,15 @@ The first thing to do is to find your specific course account. You can do that h
 
 [Find Account](https://sdacs.ucsd.edu/~icc/index.php)
 
+1. Log in
+2. Choose your account(make sure to choose the cs15l account as there is a possibility that you have multiple accounts)
+3. Follow the on screen instructions to reset your password.
+
+![Image]
+![Image]
+
+
+
 
 
 
