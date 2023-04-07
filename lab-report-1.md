@@ -8,12 +8,29 @@ The first thing to do is to find your specific course account. You can do that h
 
 [Find Account](https://sdacs.ucsd.edu/~icc/index.php)
 
-1. Log in
-2. Choose your account(make sure to choose the cs15l account as there is a possibility that you have multiple accounts)
+1. Log in with your UCSD credentials.
+2. Choose your account(make sure to choose the cs15l account as there is a possibility that you have multiple accounts).
 3. Follow the on screen instructions to reset your password.
 
-![Image]
-![Image]
+![Image](account log in screen)
+![Image](choose account screen)
+![Image](change password)
+
+**Personal Experience**
+* For me logging in to the website provided was very smooth because I just used my UCSD credentials(as prompted) to log in.
+* However when it came to changing my password I had to reset it twice because I forgot it when I was connnecting to the remote server(I'll talk about this later on)
+
+## Installing Visual Studio Code
+You will now need something to be able to access a terminal and connect to a remote server. Thus, we will be installing Visual Studio Code. If you don't want to install VScode for whatever reason(I suggest you do) then you can just access it on the CS lab computers.
+You can Install Visual Studio code here:
+
+[VScode](https://code.visualstudio.com/download)
+
+Make sure that you install the correct version depending on your device
+[Image](picture of the vscode download screen)
+
+
+
 
 
 
