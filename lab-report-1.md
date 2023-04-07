@@ -32,7 +32,7 @@ Make sure that you install the correct version depending on your device
 
 After you click download that is specific for your device, you want to follow the on screen instructions. When it is installed you should be able to open a program that looks like the following:
 
-![Image](vscode starting page)
+![Image](vscode_starting_page.JPG)
 
 Congratulations! You now have Visual Studio Code installed on your device and don't have to rely on the lab computers.
 
