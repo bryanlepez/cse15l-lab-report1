@@ -13,8 +13,6 @@ The first thing to do is to find your specific course account. You can do that h
 3. Follow the on screen instructions to reset your password.
 
 ![Image](account log in screen)
-![Image](choose account screen)
-![Image](change password)
 
 **Personal Experience**
 * For me logging in to the website provided was very smooth because I just used my UCSD credentials(as prompted) to log in.
