@@ -39,7 +39,21 @@ Congratulations! You now have Visual Studio Code installed on your device and do
 * One important thing to remember is to make sure to download the version of Visual Studio Code that is meant for your specific device.
 
 ## Establishing Remote Access
-You have now obtained and installed the necessary tools and information to be able to remotely connect to a server. In this case we will be connecting to the lab computers. 
+You have now obtained and installed the necessary tools and information to be able to remotely connect to a server. In this case we will be connecting to the lab computers. We will be using our cs15l accounts to connect to a computer over the internet, could be a remote server. In order to do this we will also be using a terminal within VScode.
+
+However, Windows users you need to take an extra step. If you are on MAC(superior system) you can skip this step. You will need to download **GIT**.
+You can download it here:
+
+[Git download](https://gitforwindows.org/)
+
+You will also need to change the terminal in Visual Studio Code to change your terminal to use git that we just installed. Instructions here:
+
+[How to Change Terminal](https://stackoverflow.com/a/50527994)
+
+We will now be able to use `ssh` which will allow us to actually connect to a remote server. You want to first open up a terminal in VScode by going to the menu and selecting **terminal** then **new terminal**. We can now enter a command line with ssh that will let us connect to a remote server. It will look like this:
+
+``ssh cs15lsp23XX@ieng6.ucsd.edu``
+
 
 
 
