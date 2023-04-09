@@ -12,7 +12,7 @@ The first thing to do is to find your specific course account. You can do that h
 2. Choose your account(make sure to choose the cs15l account as there is a possibility that you have multiple accounts).
 3. Follow the on screen instructions to reset your password.
 
-![Image](account log in screen)
+![Image](account_selection.png)
 
 **Personal Experience**
 * For me logging in to the website provided was very smooth because I just used my UCSD credentials(as prompted) to log in.
@@ -32,12 +32,14 @@ After you click download that is specific for your device, you want to follow th
 
 ![Image](vscode_starting_page.JPG)
 
-Congratulations! You now have Visual Studio Code installed on your device and don't have to rely on the lab computers.
+Congratulations! You now have Visual Studio Code installed on your device and don't have to rely on the lab computers. 
 
 **Personal Experience**
 * I personally did not have to do this step as I already had VScode installed due to prior CS courses that I took(might be the case for a lot of people).
 * One important thing to remember is to make sure to download the version of Visual Studio Code that is meant for your specific device.
 
+## Establishing Remote Access
+You have now obtained and installed the necessary tools and information to be able to remotely connect to a server. In this case we will be connecting to the lab computers. 
 
 
 
