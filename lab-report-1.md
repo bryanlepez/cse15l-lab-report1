@@ -50,10 +50,14 @@ You will also need to change the terminal in Visual Studio Code to change your t
 
 [How to Change Terminal](https://stackoverflow.com/a/50527994)
 
-We will now be able to use `ssh` which will allow us to actually connect to a remote server. You want to first open up a terminal in VScode by going to the menu and selecting **terminal** then **new terminal**. We can now enter a command line with ssh that will let us connect to a remote server. It will look like this:
+We will now be able to use `ssh` which will allow us to actually connect to a remote server. You want to first open up a terminal in VScode by going to the menu and selecting **terminal** then **new terminal**. We can now enter a command line with ``ssh`` that will let us connect to a remote server. It will look like this:
 
 ``ssh cs15lsp23XX@ieng6.ucsd.edu``
 
+The terminal should then prompt you to enter a password(this password is the one that you just reset earlier on in this lab). Make sure to enter it correctly or it won't let you into the server. 
+* **Note**: When you go to type your password, the terminal will not display any of the keys that you press, but it is typing.
+
+Once you type in your password correctly and login the terminal will prompt you with a long text that is asking you to confirm authenticity of the connection to the server or something along those lines. Since it is your first time connecting to the server it will make sure that it is secure to connect your account to it. You want to say **Yes** to this message so that it allows you connect to the server.
 
 
 
