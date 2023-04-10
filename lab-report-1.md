@@ -54,11 +54,22 @@ We will now be able to use `ssh` which will allow us to actually connect to a re
 
 ``ssh cs15lsp23XX@ieng6.ucsd.edu``
 
+**Note**: The "XX" in the command should be replaced with the letters that are in your cs15l account. This is just a generic representation of how it should look.
+
 The terminal should then prompt you to enter a password(this password is the one that you just reset earlier on in this lab). Make sure to enter it correctly or it won't let you into the server. 
 * **Note**: When you go to type your password, the terminal will not display any of the keys that you press, but it is typing.
 
-Once you type in your password correctly and login the terminal will prompt you with a long text that is asking you to confirm authenticity of the connection to the server or something along those lines. Since it is your first time connecting to the server it will make sure that it is secure to connect your account to it. You want to say **Yes** to this message so that it allows you connect to the server.
+Once you type in your password correctly and login the terminal will prompt you with a long text that is asking you to confirm authenticity of the connection to the server or something along those lines. Since it is your first time connecting to the server it will make sure that it is secure to connect your account to it. You want to say **Yes** to this message so that it allows you connect to the server. After you say yes to the prompt your terminal should have a bunch of information like this:
 
+![Image](firstcode.png)
+
+You have now remotely connected to the server! In the next step you will learn some commands to type in to the terminal to nteract with the server.
+
+**Personal Experience**
+* I did not have to do the step that involved installing **Git** and changing the terminal within VScode as I am on MAC and it didn't require me to do it.
+* I had trouble with the passsword portion of this step because I was confused as to why nothing was showing up in the terminal when I typed. I had to get this cleared up with a tutor.
+* I also had trouble with the password portion because I kept getting it wrong and had to go back in the lab steps and reset my password once again.
+* Other than that I was able to successfully connect to the server.
 
 
 
