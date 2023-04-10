@@ -63,13 +63,20 @@ Once you type in your password correctly and login the terminal will prompt you 
 
 ![Image](firstcode.png)
 
-You have now remotely connected to the server! In the next step you will learn some commands to type in to the terminal to nteract with the server.
+You have now remotely connected to the server! In the next step you will learn some commands to type in to the terminal to interact with the server. Make sure to ask questions if necessary and document what you are doing.
 
 **Personal Experience**
 * I did not have to do the step that involved installing **Git** and changing the terminal within VScode as I am on MAC and it didn't require me to do it.
 * I had trouble with the passsword portion of this step because I was confused as to why nothing was showing up in the terminal when I typed. I had to get this cleared up with a tutor.
 * I also had trouble with the password portion because I kept getting it wrong and had to go back in the lab steps and reset my password once again.
 * Other than that I was able to successfully connect to the server.
+
+## Running Commands in the Terminal After Successful Remote Connection
+We will now run some commands in the terminal that will run on the server that we conected to. We will be able to access the information that is stored in the server. We will use this to practice our commands.
+
+
+
+
 
 
 
