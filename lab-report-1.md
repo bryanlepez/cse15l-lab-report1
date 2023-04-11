@@ -82,9 +82,11 @@ Here are some commands that you can run:
 * ``cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``
 * ``ls -a`` (once again this should bring up some information)
 * ``pwd`` (should print your current working directory)
-* 
+* ``cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``
 
+Make sure to document your activities in the terminal. After running some commands your terminal should look a little bit like this:
 
+![Image](
 
 
 
