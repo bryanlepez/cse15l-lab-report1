@@ -74,6 +74,16 @@ You have now remotely connected to the server! In the next step you will learn s
 ## Running Commands in the Terminal After Successful Remote Connection
 We will now run some commands in the terminal that will run on the server that we conected to. We will be able to access the information that is stored in the server. We will use this to practice our commands.
 
+You can now some of the commands that we learned in lecture like ``cd``, ``ls``, ``pwd``, ``cp``, and ``cat``.
+
+Here are some commands that you can run:
+* ``cd``
+* ``ls -lat`` (this should bring up a lot of information like you see in the picture below)
+* ``cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``
+* ``ls -a`` (once again this should bring up some information)
+* ``pwd`` (should print your current working directory)
+* 
+
 
 
 
