@@ -115,17 +115,20 @@ After you have followed the onscreen instructions and created your account you s
 In order to begin doing this, you have to create a repository. To do this you want to go to the top right corner and hit the ``+`` -> ``New Repository``.
 This repository will allow you to store and share your code. It is very similar to a file that you would elsewhere like Google Drive. After you click new repository you should get a screen like this:
 
-![Image](image)
+![Image](githubrepos.png)
 
 In the name you want to name the repository something that is related to what is going to be stored in it. In this case let's name it ``cs15l-lab-reports``.
 
+![Image](githubname.png)
+
 You should now see the main menu of your repository which looks like this:
 
-![Image](image)
+![Image](githubmenu.png)
 
 On your screen, if it's your first time using GitHub, you should see a little "Create new File" button in blue letters towards the top of your repository. Click that and it will prompt you to select a name for the file. Make the name of the file ``index.md``. You can put anything you want into this file!
 Once you put something in the file you can scroll down and select "Commit new File". This will give you a link that you can now share.
 
+![Image](indexscreen.png)
 
 
 
