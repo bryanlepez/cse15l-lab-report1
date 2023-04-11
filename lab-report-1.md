@@ -86,7 +86,29 @@ Here are some commands that you can run:
 
 Make sure to document your activities in the terminal. After running some commands your terminal should look a little bit like this:
 
+![Image](secondcode.png)
+
+**Personal Experience**
+* I had some issues typing in some of the commands that were given to us because I was typing in "wi" for winter like on the lab instructions but we were supposed to be typing in "sp" for spring. Due to this it kept giving me errors.
+* Another thing I had trouble with was making sure I was including spaces between the commands in order to make sure the terminal knows they are separate.
+
+## Using git, Github, and GitHub Pages
+These three things are extremely useful tools to know. Github is a website that allows you to store and share code and information on a website. Within Github there is GitHub pages that allows you to create a sort of website for yourself. These two things use a tool called git.
+
+* [Github site](https://github.com)
+* Within this site you should be able to access GitHub Pages and learn about git as well.
+
+**Personal Experience**
+* For this part I didn't necessarily have any trouble understanding what to do.
+* I have prior knowledge as to what GitHub was and how it works, but this was my first time using it.
+
+## Now We Will Create a Website with GitHub Pages
+In order to first start the process of making our website we will need to make an account. If you already have an account then you can just use that.
+You can start making your account here:
+
+[Github.con](https://github.com)
 ![Image](
+After you have followed the onscreen instructions 
 
 
 
