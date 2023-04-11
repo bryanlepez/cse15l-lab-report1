@@ -106,9 +106,27 @@ These three things are extremely useful tools to know. Github is a website that 
 In order to first start the process of making our website we will need to make an account. If you already have an account then you can just use that.
 You can start making your account here:
 
-[Github.con](https://github.com)
-![Image](
-After you have followed the onscreen instructions 
+[Github.com](https://github.com)
+![Image](githubscreen.png)
+
+### Creating Repository to Start Storing Code
+After you have followed the onscreen instructions and created your account you should be able to access GitHub and start storing and sharing your code.
+
+In order to begin doing this, you have to create a repository. To do this you want to go to the top right corner and hit the ``+`` -> ``New Repository``.
+This repository will allow you to store and share your code. It is very similar to a file that you would elsewhere like Google Drive. After you click new repository you should get a screen like this:
+
+![Image](image)
+
+In the name you want to name the repository something that is related to what is going to be stored in it. In this case let's name it ``cs15l-lab-reports``.
+
+You should now see the main menu of your repository which looks like this:
+
+![Image](image)
+
+On your screen, if it's your first time using GitHub, you should see a little "Create new File" button in blue letters towards the top of your repository. Click that and it will prompt you to select a name for the file. Make the name of the file ``index.md``. You can put anything you want into this file!
+Once you put something in the file you can scroll down and select "Commit new File". This will give you a link that you can now share.
+
+
 
 
 
