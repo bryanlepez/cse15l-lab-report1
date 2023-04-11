@@ -130,6 +130,45 @@ Once you put something in the file you can scroll down and select "Commit new Fi
 
 ![Image](indexscreen.png)
 
+**Personal Experience**
+* For this part I didn't have any problems at all, I just followed the instructions and everything worked perfectly fine.
+* This was my first time using GitHub so I had to do everything that was required in this step.
+
+### Now We Can Start Making a Website with Pages
+Now we can make a website using GitHub. In order to do this we have to first go to settings in our GitHub Repository and click "Pages" which should be on the left handside of the settings.
+
+![Image](settings screen)
+When you are on pages you wan to set your branch to main like in the picture below:
+![Image](pages screen)
+
+After you set the branch to main it should save. Soon it will give you a link towards the top of the pages screen that you can click to send you to your new website!! Now add a new file, name it whatever you want but make sure to add the extensiong ``.md``.
+You can access different files within your repository with this link by adding the file name + ``.html`` at the end. This is the case for .md files that we will be using. Your new site will looke something similar to this:
+
+![Image](websitescreen.png)
+
+**Personal Experience**
+* For the most part these steps were very basic and I was able to follow them directly so that everything worked fine.
+* A slight issue, not very much an issue, was that my link took a long time to pop up when I initially created my Pages.
+
+### What is Markdown and How do We Use it
+Markdown is a way of writing and formatting that GitHub uses within Pages to allow us to create our websites. Markdown is denoted by ``.md``. This extension allows us to use MarkDown which allows us to format and put words on our screens in an easier manner. You can find more information on the different techniques within markdown and what it is here:
+
+1. [Techniques within Markdown](https://commonmark.org/help/)
+2. [What is it?](https://www.markdownguide.org/getting-started/)
+
+After reading this two pieces of content over Markdown you should now know some basic techniques within Markdown. In the extra file that you created you should practice using some of these Markdown techniques.
+
+Now we have one more checklist:
+1. You must have two files "index.md" and whatever other .md file you created.
+2. You should have practiced Markdown within one of these files.
+3. Able to make the changes in your .md files appear on your Pages at the URL provided to you.
+
+Congrats! You have now made a simple website for yourself!
+
+**Personal Experience**
+* These steps were once again very easy to follow and I didn't have any problems with this portion of the lab at all.
+* One thing that I need more practice with is using and learning Markdown to be able to make better sites.
+
 
 
 
