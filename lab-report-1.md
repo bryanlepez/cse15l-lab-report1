@@ -137,9 +137,11 @@ Once you put something in the file you can scroll down and select "Commit new Fi
 ### Now We Can Start Making a Website with Pages
 Now we can make a website using GitHub. In order to do this we have to first go to settings in our GitHub Repository and click "Pages" which should be on the left handside of the settings.
 
-![Image](settings screen)
-When you are on pages you wan to set your branch to main like in the picture below:
-![Image](pages screen)
+![Image](settingsscreen.png)
+
+When you are on pages you want to set your branch to main like in the picture below:
+
+![Image](githubpages.png)
 
 After you set the branch to main it should save. Soon it will give you a link towards the top of the pages screen that you can click to send you to your new website!! Now add a new file, name it whatever you want but make sure to add the extensiong ``.md``.
 You can access different files within your repository with this link by adding the file name + ``.html`` at the end. This is the case for .md files that we will be using. Your new site will looke something similar to this:
